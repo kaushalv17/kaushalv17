@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA¢er=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Kaushal+Tiwari;Backend+%26+Systems+Engineer;Building+things+that+scale." alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Kaushal+Tiwari;Backend+%26+Systems+Engineer;Building+things+that+scale.)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://linkedin.com/in/kaushal-tiwari-668604363"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kaushalt102@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=kaushalv17&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-</p>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushal-tiwari-668604363)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushalt102@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=kaushalv17&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -85,13 +85,14 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kaushalv17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalv17&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kaushalv17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kaushal's GitHub Stats"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalv17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalv17&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=kaushalv17&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
 ---
