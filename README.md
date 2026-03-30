@@ -1,9 +1,6 @@
-<!-- BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kaushal%20Tiwari&fontSize=50&fontColor=00D4AA&fontAlignY=35&desc=Backend%20%26%20Systems%20Engineer&descAlignY=58&descSize=20&descColor=a0aec0&animation=fadeIn" width="100%"/>
-</div>
+<!-- BANNER — using markdown image syntax, most reliable format -->
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kaushal%20Tiwari&fontSize=50&fontColor=00D4AA&fontAlignY=35&desc=Backend%20%26%20Systems%20Engineer&descAlignY=58&descSize=20&descColor=a0aec0&animation=fadeIn)
 
-<!-- TYPING + SOCIALS -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Kaushal+Tiwari;I+build+distributed+systems+from+scratch;53%2C000%2B+ops%2Fsec+%E2%80%94+sub-ms+p99+latency;Backend+%26+Systems+Engineer+%F0%9F%94%A5)](https://git.io/typing-svg)
@@ -46,7 +43,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -57,7 +53,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -67,11 +62,14 @@
 
 <div align="center">
 
-[![streak](https://streak-stats.demolab.com/?user=kaushalv17&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+<!-- REPLACE this URL after self-hosting — see instructions below -->
+[![GitHub Stats](https://YOUR-INSTANCE.vercel.app/api?username=kaushalv17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/kaushalv17)
+&nbsp;
+[![Top Languages](https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=kaushalv17&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/kaushalv17)
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaushalv17&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![streak](https://streak-stats.demolab.com/?user=kaushalv17&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
 </div>
 
@@ -127,10 +125,7 @@
 
 ---
 
-<!-- FOOTER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
 <div align="center">
   <i>⚡ "I don't just use abstractions — I build them." ⚡</i>
