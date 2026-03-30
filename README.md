@@ -21,8 +21,6 @@
 
 ## 🧠 About Me
 
-<img align="right" src="./graph.jpg" width="340" alt="graph"/>
-
 ```text
 🎓  CSE @ ABES Engineering College, Ghaziabad (2023–2027)
 ⚙️  Backend & systems engineer — I build from scratch
@@ -35,8 +33,6 @@
 🤝  Ask me: Node.js · NestJS · Kafka · Redis · Docker
 📫  kaushalt102@gmail.com
 ```
-
-<br clear="right"/>
 
 ---
 
