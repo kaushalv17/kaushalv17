@@ -1,6 +1,9 @@
-<!-- BANNER — using markdown image syntax, most reliable format -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kaushal%20Tiwari&fontSize=50&fontColor=00D4AA&fontAlignY=35&desc=Backend%20%26%20Systems%20Engineer&descAlignY=58&descSize=20&descColor=a0aec0&animation=fadeIn)
+<!-- BANNER — upload as banner.jpg in your repo root -->
+<div align="center">
+  <img src="./banner.jpg" width="100%" alt="banner"/>
+</div>
 
+<!-- TYPING + SOCIALS -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Kaushal+Tiwari;I+build+distributed+systems+from+scratch;53%2C000%2B+ops%2Fsec+%E2%80%94+sub-ms+p99+latency;Backend+%26+Systems+Engineer+%F0%9F%94%A5)](https://git.io/typing-svg)
@@ -18,22 +21,26 @@
 
 ## 🧠 About Me
 
+<img align="right" src="./graph.jpg" width="340" alt="graph"/>
+
 ```text
-🎓  CSE undergrad @ ABES Engineering College, Ghaziabad (2023–2027)
-⚙️  I build backend systems and distributed infra from scratch — zero external deps
-🔥  Built a Redis-like cache: 53,000+ ops/sec | sub-ms p99 latency over raw TCP
-🌐  Designed consistent hash rings, WAL crash recovery, pub/sub, heartbeat detection
-📦  Event-driven architecture fan — Inngest, async pipelines, real-time systems
-🌱  Actively contributing to open-source | Targeting GSoC 2025
-🏆  Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-💡  Solved 200+ DSA problems on LeetCode | Regular CodeChef contest participant
-🤝  Ask me about: Node.js · Distributed Systems · System Design · Docker
+🎓  CSE @ ABES Engineering College, Ghaziabad (2023–2027)
+⚙️  Backend & systems engineer — I build from scratch
+🔥  Redis-like cache: 53K ops/sec | sub-ms p99 over TCP
+🌐  Distributed systems, WAL, consistent hashing, pub/sub
+📦  Event-driven architecture · Kafka · Inngest pipelines
+🌱  Open source contributor · GSoC 2025 aspirant
+🏆  Oracle OCI 2025 Certified Generative AI Professional
+💡  200+ LeetCode · Active CodeChef contestant
+🤝  Ask me: Node.js · NestJS · Kafka · Redis · Docker
 📫  kaushalt102@gmail.com
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🛠 Languages & Tools I've Placed My Hands On
+## 🛠 Languages & Tools
 
 <div align="center">
 
@@ -41,8 +48,9 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -62,13 +70,6 @@
 
 <div align="center">
 
-<!-- REPLACE this URL after self-hosting — see instructions below -->
-[![GitHub Stats](https://YOUR-INSTANCE.vercel.app/api?username=kaushalv17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/kaushalv17)
-&nbsp;
-[![Top Languages](https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=kaushalv17&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/kaushalv17)
-
-<br/>
-
 [![streak](https://streak-stats.demolab.com/?user=kaushalv17&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
 </div>
@@ -78,13 +79,13 @@
 ## 🚀 Featured Projects
 
 ### 🔴 Distributed Cache Engine
-> Built a production-grade Redis-alternative with zero external cache dependencies
+> Redis-like in-memory distributed cache built from scratch — zero external cache dependencies
 
 - ⚡ **53,000+ ops/sec** | **sub-millisecond p99 latency** over raw TCP
-- 🔄 Custom binary protocol with partial-read handling + O(1) LRU eviction (4 policies)
+- 🔄 Custom binary protocol + O(1) LRU eviction (4 configurable policies)
 - 💾 Write-Ahead Logging crash recovery — full state restore in **< 1 second**
 - 🌐 Consistent hash ring (150 virtual nodes) — only **~25% key remapping** on node addition
-- 📡 Pub/Sub with glob pattern matching, heartbeat failure detection, primary→replica WAL streaming
+- 📡 Pub/Sub with glob pattern matching, heartbeat failure detection, WAL streaming
 - ✅ **206 tests · 14 test files · 0 failures**
 
 [![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/kaushalv17)
@@ -94,20 +95,20 @@
 ### 📈 Signalist — Event-Driven Stock Intelligence Platform
 > Automated stock monitoring backend with AI-generated market summaries
 
-- ⚙️ Inngest-powered workflows: **720 automated executions/day** (every 2 minutes)
-- 🤖 **Gemini AI** daily stock summaries + scheduled email digests — zero manual monitoring
-- 🚀 **20 req/sec** under concurrent load via Promise-based async pipelines
-- 📡 Finnhub API integration — **~850ms avg latency** with ISR caching
+- ⚙️ **720 automated Inngest workflow executions/day** (every 2 minutes)
+- 🤖 **Gemini AI** daily stock summaries + scheduled email digests
+- 🚀 **20 req/sec** under concurrent load via async pipelines
+- 📡 Finnhub API — **~850ms avg latency** with ISR caching
 
 [![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/kaushalv17)
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
 <div align="center">
 
-☁️ **Oracle Cloud Infrastructure 2025 — Certified Generative AI Professional** &nbsp;|&nbsp; 💡 **200+ LeetCode problems solved**
+☁️ **Oracle Cloud Infrastructure 2025 — Certified Generative AI Professional** &nbsp;|&nbsp; 💡 **200+ LeetCode problems**
 
 🔥 **Distributed cache benchmarked against Redis** &nbsp;|&nbsp; 🏅 **Active — CodeChef & LeetCode contests**
 
@@ -115,7 +116,7 @@
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Dev Quote
 
 <div align="center">
 
@@ -125,7 +126,10 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+<!-- FOOTER BANNER -->
+<div align="center">
+  <img src="./banner.jpg" width="100%" alt="footer"/>
+</div>
 
 <div align="center">
   <i>⚡ "I don't just use abstractions — I build them." ⚡</i>
