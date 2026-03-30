@@ -85,13 +85,11 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kaushalv17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kaushal's GitHub Stats"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalv17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+[![streak-stats](https://streak-stats.demolab.com/?user=kaushalv17&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=kaushalv17&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaushalv17&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
