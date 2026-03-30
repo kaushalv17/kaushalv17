@@ -15,7 +15,7 @@
 ## 🧠 About Me
 
 ```text
-🎓  CS undergrad @ ABES Engineering College, Ghaziabad (2023–2027)
+🎓  CSE undergrad @ ABES Engineering College, Ghaziabad (2023–2027)
 ⚙️  Backend & systems engineer — I build things from scratch that actually scale
 🔥  Built a Redis-like distributed cache: 53,000+ ops/sec, sub-ms p99 latency
 🌱  Currently exploring GSoC open-source contributions
