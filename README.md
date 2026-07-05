@@ -14,14 +14,12 @@
 ## 🧠 About Me
 
 <pre>
-🎓  CSE @ ABES Engineering College, Ghaziabad (2023–2027)
 ⚙️  Backend & distributed-systems engineer — I build the hard parts from scratch
 🛡️  Shipped Quorvel: a live, paid reliability layer for AI agents (durable ledger + exactly-once)
 🔴  Built a Redis-like distributed cache in Node.js: 53K ops/sec, sub-ms p99 over raw TCP
 🌐  Depth in WAL, consistent hashing, pub/sub, idempotency, sagas, durable workflows
 🤖  AI-native backends — OpenAI/LangChain, Gemini, embeddings, human-in-the-loop agents
 🏆  Oracle OCI 2025 — Certified Generative AI Professional
-💡  200+ DSA problems solved · active competitive programmer
 📫  kaushalt102@gmail.com
 </pre>
 
