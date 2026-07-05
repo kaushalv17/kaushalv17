@@ -3,36 +3,27 @@
   <img src="./banner.jpg" width="100%" alt="banner"/>
 </div>
 
-<!-- TYPING + SOCIALS -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Kaushal+Tiwari;I+build+distributed+systems+from+scratch;53%2C000%2B+ops%2Fsec+%E2%80%94+sub-ms+p99+latency;Backend+%26+Systems+Engineer+%F0%9F%94%A5)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushal-tiwari-668604363)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushalt102@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaushalv17)
-![Profile Views](https://komarev.com/ghpvc/?username=kaushalv17&style=for-the-badge&color=00d4aa&label=PROFILE+VIEWS)
-
+  <a href="https://www.linkedin.com/in/kaushal-tiwari-668604363"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kaushalt102@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://quorvel.tech"><img src="https://img.shields.io/badge/Quorvel-live-00ff88?style=for-the-badge&logo=vercel&logoColor=black" alt="Quorvel"/></a>
 </div>
 
 ---
 
 ## 🧠 About Me
 
-```text
+<pre>
 🎓  CSE @ ABES Engineering College, Ghaziabad (2023–2027)
-⚙️  Backend & systems engineer — I build from scratch
-🔥  Redis-like cache: 53K ops/sec | sub-ms p99 over TCP
-🌐  Distributed systems, WAL, consistent hashing, pub/sub
-📦  Event-driven architecture · Kafka · Inngest pipelines
-🌱  Open source contributor · GSoC 2025 aspirant
-🏆  Oracle OCI 2025 Certified Generative AI Professional
-💡  200+ LeetCode · Active CodeChef contestant
-🤝  Ask me: Node.js · NestJS · Kafka · Redis · Docker
+⚙️  Backend & distributed-systems engineer — I build the hard parts from scratch
+🛡️  Shipped Quorvel: a live, paid reliability layer for AI agents (durable ledger + exactly-once)
+🔴  Built a Redis-like distributed cache in Node.js: 53K ops/sec, sub-ms p99 over raw TCP
+🌐  Depth in WAL, consistent hashing, pub/sub, idempotency, sagas, durable workflows
+🤖  AI-native backends — OpenAI/LangChain, Gemini, embeddings, human-in-the-loop agents
+🏆  Oracle OCI 2025 — Certified Generative AI Professional
+💡  200+ DSA problems solved · active competitive programmer
 📫  kaushalt102@gmail.com
-```
+</pre>
 
 ---
 
@@ -40,33 +31,21 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-## ⚡ GitHub Stats
-
-<div align="center">
-
-[![streak](https://streak-stats.demolab.com/?user=kaushalv17&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-EC1C24?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -74,29 +53,36 @@
 
 ## 🚀 Featured Projects
 
+### 🛡️ Quorvel — Reliability Layer for AI Agents · [Live](https://quorvel.tech) · [App](https://app.quorvel.tech)
+> Production SaaS + open TypeScript SDK that makes AI-agent actions **exactly-once, gated, and crash-safe**. Pattern: **record → gate → replay**.
+
+- 📒 **Durable action ledger** — actions are recorded before they run, so retries are safe and crashes replay instead of double-firing
+- 🔌 **~3-line integration** with drop-in adapters for **OpenAI, LangChain/LangGraph, MCP, and the Vercel AI SDK**
+- ✋ **Human-in-the-loop approval gates** + policies (budgets, rate limits, conditional approval) + **saga auto-rollback**
+- ☁️ Multi-tenant hosted Cloud API (Fastify) — Clerk auth, Neon Postgres, Redis/BullMQ, DLQ, circuit breakers, Paddle billing
+- ✅ **155/155 Cloud-API tests + 200+ SDK tests green**
+
 ### 🔴 Distributed Cache Engine
-> Redis-like in-memory distributed cache built from scratch — zero external cache dependencies
+> Redis-like in-memory distributed cache built from scratch in Node.js — zero external cache dependencies.
 
-- ⚡ **53,000+ ops/sec** | **sub-millisecond p99 latency** over raw TCP
-- 🔄 Custom binary protocol + O(1) LRU eviction (4 configurable policies)
-- 💾 Write-Ahead Logging crash recovery — full state restore in **< 1 second**
-- 🌐 Consistent hash ring (150 virtual nodes) — only **~25% key remapping** on node addition
-- 📡 Pub/Sub with glob pattern matching, heartbeat failure detection, WAL streaming
-- ✅ **206 tests · 14 test files · 0 failures**
+- ⚡ **53,000+ ops/sec** · **sub-millisecond p99** over a custom binary TCP protocol
+- 🔄 O(1) LRU eviction (4 configurable policies) + partial-read framing
+- 💾 **Write-Ahead Log** crash recovery — full state restore in **< 1 second**
+- 🌐 Consistent hash ring (150 vnodes) — only **~25% key remap** on node add; heartbeat detection + primary→replica WAL streaming
+- 📡 Pub/Sub with glob matching · **206 tests, 0 failures**
 
-[![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/kaushalv17)
+### 🟣 Reachly — AI-Native CRM & Agentic Campaign Engine
+> Plain-English goal → validated audience → approved, queued send.
 
----
+- 🧠 Gemini turns a goal into **Zod-validated rule JSON** compiled to **parameterized SQL** (the AI never writes raw SQL)
+- 🔁 Idempotent event IDs + **7-state forward-only machine** → exactly-once, ordered updates under retries
+- 🚚 BullMQ + Redis dispatch (10 workers, exponential backoff) · deployed as 2 services across Vercel + Render
 
-### 📈 Signalist — Event-Driven Stock Intelligence Platform
-> Automated stock monitoring backend with AI-generated market summaries
+### 📈 Signalist — Event-Driven Stock Intelligence
+> Durable, event-driven backend for automated stock monitoring with AI summaries.
 
-- ⚙️ **720 automated Inngest workflow executions/day** (every 2 minutes)
-- 🤖 **Gemini AI** daily stock summaries + scheduled email digests
-- 🚀 **20 req/sec** under concurrent load via async pipelines
-- 📡 Finnhub API — **~850ms avg latency** with ISR caching
-
-[![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/kaushalv17)
+- ⚙️ **~720 durable Inngest executions/day** (alert eval every 2 min) — no separate worker infra
+- 🤖 **Gemini** daily summaries + scheduled email digests; Finnhub (~850ms) with ISR caching · **20 req/sec**
 
 ---
 
@@ -104,29 +90,24 @@
 
 <div align="center">
 
-☁️ **Oracle Cloud Infrastructure 2025 — Certified Generative AI Professional** &nbsp;|&nbsp; 💡 **200+ LeetCode problems**
+☁️ **Oracle OCI 2025 — Certified Generative AI Professional**  |  🛡️ **Launched a live, paid AI-agent reliability SaaS (Quorvel)**
 
-🔥 **Distributed cache benchmarked against Redis** &nbsp;|&nbsp; 🏅 **Active — CodeChef & LeetCode contests**
+🔴 **Hand-built distributed cache benchmarked against Redis**  |  💡 **200+ DSA problems · active competitive programmer**
 
 </div>
 
 ---
 
-## 💬 Dev Quote
+## 📊 Contribution Graph
 
 <div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushalv17&theme=react-dark&bg_color=0d1117&hide_border=true&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff88" width="95%" alt="activity graph"/>
 </div>
 
 ---
 
-<!-- FOOTER BANNER -->
 <div align="center">
   <img src="./banner.jpg" width="100%" alt="footer"/>
-</div>
-
-<div align="center">
+  <br/>
   <i>⚡ "I don't just use abstractions — I build them." ⚡</i>
 </div>
