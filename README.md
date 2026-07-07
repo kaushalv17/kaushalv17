@@ -123,7 +123,7 @@
 
 ☁️ **Oracle OCI 2025 — Certified Generative AI Professional**  | 🛡️ **Launched a live, paid AI-agent reliability SaaS (Quorvel)**
 
-🔴 **Hand-built distributed cache benchmarked against Redis**  | 💡 **200+ DSA problems · active competitive programmer**
+🔴 **Hand-built distributed cache benchmarked against Redis**  | 💡 **200+ DSA problems & active competitive programmer**
 
 </div>
 
